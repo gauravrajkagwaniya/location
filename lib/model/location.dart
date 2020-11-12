@@ -1,0 +1,1 @@
+class CurrentLocation{  final String name;  CurrentLocation({this.name});}
